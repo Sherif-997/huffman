@@ -1,0 +1,8 @@
+E:\Temp\GrowingCircle\GrowingCircle\obj\Debug\GrowingCircle.csprojAssemblyReference.cache
+E:\Temp\GrowingCircle\GrowingCircle\obj\Debug\GrowingCircle.Properties.Resources.resources
+E:\Temp\GrowingCircle\GrowingCircle\obj\Debug\GrowingCircle.csproj.GenerateResource.cache
+E:\Temp\GrowingCircle\GrowingCircle\bin\Debug\GrowingCircle.exe.config
+E:\Temp\GrowingCircle\GrowingCircle\bin\Debug\GrowingCircle.exe
+E:\Temp\GrowingCircle\GrowingCircle\bin\Debug\GrowingCircle.pdb
+E:\Temp\GrowingCircle\GrowingCircle\obj\Debug\GrowingCircle.exe
+E:\Temp\GrowingCircle\GrowingCircle\obj\Debug\GrowingCircle.pdb
